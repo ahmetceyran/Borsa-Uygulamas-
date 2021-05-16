@@ -1,0 +1,14 @@
+C:\Users\ahmet\Desktop\Yazılım Yapımı 1.1\obj\Debug\Yazılım Yapımı 1.1.csprojAssemblyReference.cache
+C:\Users\ahmet\Desktop\Yazılım Yapımı 1.1\obj\Debug\Yazılım_Yapımı_1._1.Admin.resources
+C:\Users\ahmet\Desktop\Yazılım Yapımı 1.1\obj\Debug\Yazılım_Yapımı_1._1.Form1.resources
+C:\Users\ahmet\Desktop\Yazılım Yapımı 1.1\obj\Debug\Yazılım_Yapımı_1._1.Properties.Resources.resources
+C:\Users\ahmet\Desktop\Yazılım Yapımı 1.1\obj\Debug\Yazılım Yapımı 1.1.csproj.GenerateResource.cache
+C:\Users\ahmet\Desktop\Yazılım Yapımı 1.1\obj\Debug\Yazılım Yapımı 1.1.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\Yazılım Yapımı 1.1\bin\Debug\Yazılım Yapımı 1.1.exe.config
+C:\Users\ahmet\Desktop\Yazılım Yapımı 1.1\bin\Debug\Yazılım Yapımı 1.1.exe
+C:\Users\ahmet\Desktop\Yazılım Yapımı 1.1\bin\Debug\Yazılım Yapımı 1.1.pdb
+C:\Users\ahmet\Desktop\Yazılım Yapımı 1.1\obj\Debug\Yazılım Yapımı 1.1.exe
+C:\Users\ahmet\Desktop\Yazılım Yapımı 1.1\obj\Debug\Yazılım Yapımı 1.1.pdb
+C:\Users\ahmet\Desktop\Yazılım Yapımı 1.1\obj\Debug\Yazılım_Yapımı_1._1.KullaniciGirisi.resources
+C:\Users\ahmet\Desktop\Yazılım Yapımı 1.1\obj\Debug\Yazılım_Yapımı_1._1.AliciEkrani.resources
+C:\Users\ahmet\Desktop\Yazılım Yapımı 1.1\obj\Debug\Yazılım_Yapımı_1._1.SaticiEkrani.resources
