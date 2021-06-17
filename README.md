@@ -14,4 +14,7 @@ giriş yapılamayacaktır.
 ****Admin ekranından çıkış yapılırken "Çıkış" butonu kullanılmalıdır. Yoksa kullanıcı 
 ürünü yada bakiyesi onaylanmayacaktır.
 
-*****İletişim için e-mail:ahmetceyran00@gmail.com
+*****Genel olarak sayı girilmesi gerken yerlere sayı girilmemesi halinde özel durum oluşabilir
+bu yüzden dikkat edilmesi gerekmektedir.
+
+******İletişim için e-mail:ahmetceyran00@gmail.com
